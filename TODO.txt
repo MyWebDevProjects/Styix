@@ -1,0 +1,6 @@
+* images
+* texts
+*remove unneccery buttons
+* attach correct vide
+*fix contact form
+* fix nav bar

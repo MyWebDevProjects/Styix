@@ -1,0 +1,14 @@
+{
+  "name": "styix",
+  "version": "1.0.0",
+  "description": "styix new website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yehuda buzaglo",
+  "license": "ISC",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
